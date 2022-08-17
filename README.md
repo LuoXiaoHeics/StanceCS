@@ -14,7 +14,7 @@ python preprocess_graph.py
 python train_and_extract_graph_features.py
 python extract_graph_features.py
 ```
-You can also download the trained features from https://drive.google.com/file/d/1fHzD66ADsHk5vDn0DLdGOVWZ-hdEp_bx/view?usp=sharing.
+You can also download the trained features and data from https://drive.google.com/file/d/1HYiIVxTTHuqpWhGxqW8q6iFQQSXGNR05/view?usp=sharing.
 
 ## Sentiment
 The code for training of SentiBERT can be found in https://github.com/12190143/SentiX.
