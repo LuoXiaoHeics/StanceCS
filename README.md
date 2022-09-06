@@ -24,3 +24,14 @@ The code for training of SentiBERT can be found in https://github.com/12190143/S
 python run_bert.py
 ```
 ## Cite
+@article{luo2022exploiting,
+
+  title={Exploiting Sentiment and Common Sense for Zero-shot Stance Detection},
+  
+  author={Luo, Yun and Liu, Zihan and Shi, Yuefeng and Zhang, Yue},
+  
+  journal={arXiv preprint arXiv:2208.08797},
+  
+  year={2022}
+  
+}
